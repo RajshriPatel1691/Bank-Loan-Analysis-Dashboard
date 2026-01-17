@@ -77,8 +77,13 @@ This project demonstrates my ability to:
 This dashboard is suitable for **beginner to intermediate level data analysis projects** and showcases strong foundational analytics skills.
 
 ---
+## 📊 Dashboard Preview
 
+![Dashboard Screenshot](Dashboard_Screenshot.png)
+
+---
 ### 👤 Author
+
 
 **Rajshri Patel**
 
