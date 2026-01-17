@@ -79,7 +79,7 @@ This dashboard is suitable for **beginner to intermediate level data analysis pr
 ---
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](Bank Loan Dashboard1.png)
+![Dashboard Screenshot](Bank Loan Dashboard.png)
 
 ---
 ### 👤 Author
